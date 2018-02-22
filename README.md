@@ -36,7 +36,7 @@ The goals / steps of this project were the following:
 
 You're reading it! and here is a link to my [project code](https://github.com/dranzerashi/CarND-Traffic-Sign-Classifier-Project/blob/master/Traffic_Sign_Classifier.ipynb)
 
-Here is a link to my [HTML Extract](https://github.com/dranzerashi/CarND-Traffic-Sign-Classifier-Project/blob/master/Traffic_Sign_Classifier.ipynb)
+Here is a link to my [HTML Extract](https://github.com/dranzerashi/CarND-Traffic-Sign-Classifier-Project/blob/master/Traffic_Sign_Classifier.html)
 
 ### Data Set Summary & Exploration
 
